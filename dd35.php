@@ -1,5 +1,5 @@
 <?php
-include("./template/cabecera.php")
+include("./template/cabecera.php");
 ?>
 <div class="container">
     <h4>
@@ -22,5 +22,5 @@ include("./template/cabecera.php")
         </div>
     </div>
     <?php
-    include("./template/pie.php")
+    include("./template/pie.php");
     ?>

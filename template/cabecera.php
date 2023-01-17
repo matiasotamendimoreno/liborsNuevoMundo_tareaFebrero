@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nuevo Mundo</title>
+    <title>El Amigo del Liro. :D</title>
     <link rel="stylesheet" href="./css/pulse.min.css">
 </head>
 
@@ -26,6 +26,9 @@
             </li>
             <li class="nav-item">
                 <a class="nav-link" href="dd5.php">D&D 5</a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="./admin/index.php">Iniciar seción</a>
             </li>
         </ul>
     </nav>

@@ -1,1 +1,0 @@
-Los archivos deben ser llamados por su numero de versión "0.01 = 001", luego una "f" en minuscula para nombrar fecha y finalmente colocar la fecha con guiones bajos entre si "13_1_2023".
